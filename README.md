@@ -16,4 +16,4 @@ This project is a Unity-based first-person shooter (FPS) game featuring two dist
 ## Project Structure
 
 - `Assets/Scripts/` contains all gameplay and AI C# scripts.
-- `AI_ML/` includes Python scripts and structured gameplay data used for modeling.
+- `exploratory/` includes Python prototypes and structured gameplay data for potential modeling and analysis.
