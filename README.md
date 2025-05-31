@@ -17,3 +17,9 @@ This project is a Unity-based first-person shooter (FPS) game featuring two dist
 
 - `Assets/Scripts/` contains all gameplay and AI C# scripts.
 - `exploratory/` includes Python prototypes and structured gameplay data for potential modeling and analysis.
+
+
+## Downloads
+
+- [Download FPS Build (.zip)](https://github.com/SardarBoy/UnityGameDev/releases/tag/v1.0)
+- [Watch Demo Video](https://drive.google.com/file/d/1MBbAncl0xS26XVdDrT4dNuUetE_uzsWW/view?usp=sharing)
